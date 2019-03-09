@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\HW03032019\HW03032019\bin\Debug\HW03032019.exe.config
+C:\Users\rosla\source\repos\HW03032019\HW03032019\bin\Debug\HW03032019.exe
+C:\Users\rosla\source\repos\HW03032019\HW03032019\bin\Debug\HW03032019.pdb
+C:\Users\rosla\source\repos\HW03032019\HW03032019\obj\Debug\HW03032019.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW03032019\HW03032019\obj\Debug\HW03032019.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW03032019\HW03032019\obj\Debug\HW03032019.exe
+C:\Users\rosla\source\repos\HW03032019\HW03032019\obj\Debug\HW03032019.pdb
